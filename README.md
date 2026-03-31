@@ -1,6 +1,7 @@
 # Astana Real Estate Dashboard
 
 ## Page 1. Metrics, Map visualizations - Districts boards, Heatmap, Slicers for Districts, Rooms
+Heabox map from Mapbox
 
 <img width="1411" height="656" alt="image" src="https://github.com/user-attachments/assets/396779df-b321-45df-abc9-d66f532833be" />
 <img width="1312" height="676" alt="image" src="https://github.com/user-attachments/assets/7769b15c-26f7-4e21-a4cd-422483c359cb" />
